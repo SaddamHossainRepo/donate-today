@@ -1,0 +1,26 @@
+.top-banner{
+    background-image: url("images/donation6.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+}
+.top-div h1{
+    /* padding-top: 80px; */
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: -25px;
+    color: white;
+    /* line-height : 50px; */
+}
+.top-div{
+    margin-top: 180px;
+}
+.top-div p{
+    color: grey;
+    margin-top: 30px;
+    text-align: center;
+    margin-bottom: -25px;
+}
+.donate-button{
+    margin-top: 40px;
+    text-align: center;
+}
